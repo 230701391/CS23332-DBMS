@@ -1,1 +1,1 @@
-Includes both the DBMS mini project report and a comprehensive user manual
+Includes the DBMS user manual
